@@ -1371,7 +1371,4 @@ loaded = np.genfromtxt('missing.csv', delimiter=',', filling_values=0)
 
 ---
 
-## Best of luck with your quiz! 💪
-
-[translate:Jo cheez samajh nahi aaye - code run karke dekho. Practice se confidence aayega! Tum ready ho!]
 
