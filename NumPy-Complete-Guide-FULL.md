@@ -3,7 +3,7 @@
 
 ---
 
-**Prepared by:** AI Tutor  
+**Prepared by:** Muhammad Moawiz Sipra  
 **For:** Data Science Quiz Preparation  
 **Level:** Beginner to Intermediate  
 **Time to Complete Revision:** 2-3 hours (intensive study)  
